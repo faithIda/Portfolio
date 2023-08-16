@@ -94,3 +94,11 @@ textarea {
     font-size: 14px;
   }
 }
+
+@media (max-width: 768px) {
+    /* Styles for screens smaller than 768px */
+    body {
+      font-size: 14px;
+    }
+  }
+  
