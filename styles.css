@@ -55,6 +55,7 @@ textarea {
   padding: 10px;
   border: 1px solid #ccc;
   border-radius: 4px;
+  border-top-left-radius: 4px;
 }
 
 /* Containers */
